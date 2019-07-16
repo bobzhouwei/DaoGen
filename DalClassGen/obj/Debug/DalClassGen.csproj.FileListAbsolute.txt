@@ -1,0 +1,10 @@
+c:\users\bobo_\source\repos\DalClassGen\DalClassGen\bin\Debug\DalClassGen.exe.config
+c:\users\bobo_\source\repos\DalClassGen\DalClassGen\bin\Debug\DalClassGen.exe
+c:\users\bobo_\source\repos\DalClassGen\DalClassGen\bin\Debug\DalClassGen.pdb
+c:\users\bobo_\source\repos\DalClassGen\DalClassGen\obj\Debug\DalClassGen.csprojAssemblyReference.cache
+c:\users\bobo_\source\repos\DalClassGen\DalClassGen\obj\Debug\DalClassGen.Form1.resources
+c:\users\bobo_\source\repos\DalClassGen\DalClassGen\obj\Debug\DalClassGen.Properties.Resources.resources
+c:\users\bobo_\source\repos\DalClassGen\DalClassGen\obj\Debug\DalClassGen.csproj.GenerateResource.cache
+c:\users\bobo_\source\repos\DalClassGen\DalClassGen\obj\Debug\DalClassGen.csproj.CoreCompileInputs.cache
+c:\users\bobo_\source\repos\DalClassGen\DalClassGen\obj\Debug\DalClassGen.exe
+c:\users\bobo_\source\repos\DalClassGen\DalClassGen\obj\Debug\DalClassGen.pdb
